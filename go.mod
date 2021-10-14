@@ -1,4 +1,4 @@
-module github.com/p2pNG/mdns
+module github.com/micro/mdns
 
 go 1.15
 
